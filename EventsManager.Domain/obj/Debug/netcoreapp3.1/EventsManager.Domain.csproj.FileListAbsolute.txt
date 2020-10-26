@@ -1,0 +1,8 @@
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\bin\Debug\netcoreapp3.1\EventsManager.Domain.deps.json
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\bin\Debug\netcoreapp3.1\EventsManager.Domain.dll
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\bin\Debug\netcoreapp3.1\EventsManager.Domain.pdb
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\obj\Debug\netcoreapp3.1\EventsManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\obj\Debug\netcoreapp3.1\EventsManager.Domain.AssemblyInfo.cs
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\obj\Debug\netcoreapp3.1\EventsManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\obj\Debug\netcoreapp3.1\EventsManager.Domain.dll
+C:\Users\Developer\source\repos\EventsManager\EventsManager.Domain\obj\Debug\netcoreapp3.1\EventsManager.Domain.pdb
